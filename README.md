@@ -1,7 +1,7 @@
 # Hi, I'm Vikas Tiwari! 👋
 
 ## 🚀 About Me
-I'm a passionate tech enthusiast currently pursuing a B.Tech in Computer Engineering at Thakur College of Engineering and Technology. I love building innovative solutions, exploring new technologies, and constantly learning to improve my skills.
+I'm a passionate tech enthusiast currently pursuing a B.E. in Computer Engineering at Thakur College of Engineering and Technology. I love building innovative solutions, exploring new technologies, and constantly learning to improve my skills.
 
 ---
 
