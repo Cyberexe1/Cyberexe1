@@ -1,4 +1,18 @@
-# Hi, I'm Vikas Tiwari! 👋
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  Hi, I'm Vikas Tiwari
+</h1>
+
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | AWS AIdeas Global Champion</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;AWS+AIdeas+Global+Champion;Hackathon+Winner;AI+%26+Cybersecurity+Enthusiast;Open+Source+Contributor" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cyberexe1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ## 🚀 About Me
 I'm a passionate tech enthusiast currently pursuing a B.E. in Computer Engineering at Thakur College of Engineering and Technology. I love building innovative solutions, exploring new technologies, and constantly learning to improve my skills.
