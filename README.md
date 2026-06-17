@@ -70,4 +70,10 @@ I'm a passionate tech enthusiast currently pursuing a B.E. in Computer Engineeri
 - Competitive Programming 💻
 - Open Source Contributions 🚀
 
-⚡ Code, Innovate, Repeat! 🚀
+<div align="center">
+
+### ⭐ Code • Build • Innovate • Repeat ⭐
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250">
+
+</div>
