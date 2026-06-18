@@ -1,9 +1,11 @@
+<div align="center">
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
   Hi, I'm Vikas Tiwari
 </h1>
-
+</div>
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | AWS AIdeas Global Champion</h3>
 
 <p align="center">
