@@ -17,7 +17,9 @@
 </p>
 
 ## 🚀 About Me
-I'm a passionate tech enthusiast currently pursuing a B.E. in Computer Engineering at Thakur College of Engineering and Technology. I love building innovative solutions, exploring new technologies, and constantly learning to improve my skills.
+
+I'm **Vikas Tiwari**, a Computer Engineering student at **Thakur College of Engineering and Technology (TCET), Mumbai**, passionate about **AI, Cybersecurity, Cloud Computing, and Full-Stack Development**. I enjoy building innovative solutions that solve real-world problems, from AI-powered verification systems to cybersecurity tools and automation platforms. I'm an **AWS AIdeas Global Champion**, hackathon winner, and an active learner constantly exploring new technologies. Currently, I'm working on projects like **ASET**, **SEVE**, and **DesktopPilot-AI** while strengthening my skills in software development and problem-solving.
+
 
 ---
 
